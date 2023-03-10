@@ -1,4 +1,3 @@
 testando o conflito de arquivos entre
-tranferências no git e github
-teste de branch exemplo
-exemplo
+teste de 
+branch exemplo
